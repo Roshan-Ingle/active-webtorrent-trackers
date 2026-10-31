@@ -1,0 +1,9 @@
+wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
+wss://open.ftorrent.com:443/announce
+wss://tracker.openwebtorrent.com
+wss://tracker.webtorrent.dev
+wss://open.ftorrent.com
+wss://wt.tionis.dev
+wss://tracker.files.fm:7073/announce
+wss://tracker.btorrent.xyz
