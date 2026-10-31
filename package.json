@@ -1,0 +1,9 @@
+{
+  "name": "active-webtorrent-trackers",
+  "version": "1.0.0",
+  "description": "Automated list of active and verified WebTorrent trackers",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update_trackers.js"
+  }
+}
